@@ -1,0 +1,15 @@
+.frase{
+    border: 3px solid black;   /* Borde del rectángulo */
+    padding: 15px;             /* Espacio entre el texto y el borde */
+    width: 70%;                /* Ancho del rectángulo */
+    margin: 20px auto;         /* Lo centra horizontalmente */
+    text-align: center;        /* Centra el texto */
+    font-size: 22px;
+    font-style: italic;
+    border-radius: 10px;       /* Esquinas redondeadas (opcional) */
+}
+
+.centro{
+    display: block;
+    margin: 20px auto;
+}
